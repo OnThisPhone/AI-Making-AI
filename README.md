@@ -1,5 +1,7 @@
 # Live Page
+If you don't see a a path between the red square and yellow square, just refresh the page. Make sure to read "important notes" and my other documentation if you've got more questions.
 https://onthisphone.github.io/AI-Making-AI/AI%20Making%20AI/index.html
+
 # AI-Making-AI
 ChatGPT aided A* algorithm. Why not make an AI that an AI helped make!
 
