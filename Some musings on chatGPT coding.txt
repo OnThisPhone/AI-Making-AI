@@ -1,0 +1,17 @@
+NOTE: These musings are included as is. Exactly the way i wrote them yesterday. I think my tiredness gets more apparent as it goes on. Enjoy reading my mad ramblings.
+
+Bresenham's line algorithm and Wu's algorithm are two useful terms i learned.
+For right now, i'd be more comfortable using it to generate things that can work right away, boilerplate, or things that are relatively simple.
+
+It speeds up development quite a bit and makes some parts that would require a bit of thinking a breeze. This is useful, but i feel you should at least have written the functions before you just let chatGPT do it for you. Or maybe if the functions are relatively boring, it's ok, too. I feel the learning experience is important, and it certainly removes some of that if you rely on it too much.
+Still, having usable code to read through that doesn't really belong to anyone, and you get to troubleshoot some of the quirkier aspects of chatGPT's code can be pretty fun and a good learning experience (Bresenham's line algorithm and Wu's algorithm, as stated above)
+
+Overall, i think it's fun and very useful. I can imagine that it'll be seen as nothing more than a standard tool in the near future. Much like how Google replaced manuals, how-to books and reference sheets.
+Also, who doesn't like the idea of an AI making an AI. That's not fucking scary and exciting at all.
+
+Having ChatGPT explain how it came to the results it came to, as well as how the code it made works can be very amusing and a good way to learn.
+
+It's a good way to learn to read other "people's" code, too. As someone who rarely ever collaborates and only uses other people's code on occation.
+
+As sleepiness takes hold and the code is a bit of a mess, at least all of it works as intended and thus, i am content! Now just to add a few minor features, make some more personal notes on the few things i have to do tomorrow (Add this project to github and what not) and i'm off to bed. It's 7am.
+

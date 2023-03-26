@@ -1,0 +1,40 @@
+body{
+    background: #333;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#canvas{
+    background: #222;
+    border-bottom: 1px solid #444;
+}
+.buttonContainer{
+    display: flex;
+    flex-flow: wrap;
+    padding-bottom: 10px;
+}
+.button{
+    display: flex;
+    font-family: arial;
+    font-size: .9em;
+    padding: calc(5px + .1em);
+    user-select: none !important;
+    cursor: pointer;
+    background: #14798a;
+    color: #fff;
+
+    border-bottom: 2px solid #083138;
+    margin: 5px;
+    justify-content: center;
+
+    transition: background-color 0.3s ease-in-out;
+}
+.button:hover{
+    background-color: #16c4e2;
+    box-shadow: 0 2px 3px #222;
+    transition: background-color 0.3s ease-in-out,
+                box-shadow 0.3s ease-in-out;
+}
+.onesize{
+    width: 60px;
+}
