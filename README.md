@@ -1,3 +1,5 @@
+# Live Page
+https://onthisphone.github.io/AI-Making-AI/AI%20Making%20AI/index.html
 # AI-Making-AI
 ChatGPT aided A* algorithm. Why not make an AI that an AI helped make!
 
